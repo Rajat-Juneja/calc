@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+body, h1, h2, h3, h4, h5, h6{
+    margin: 0px;
+    padding:0px;
+}
+
+table{
+    width: 50%;
+    margin: 2% 20%;
+}
+
+table tr{
+    width: 100%;
+}
+
+table td{
+    width: 1%;
+}
+
+#first{
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+
+#second{
+    margin-top: 2%;
+    margin-bottom: 0px;
+}
+
+table tr td button{
+    margin: 1.5%;
+}
+
+table tr td.mm button{
+    /* padding: 0px; */
+    margin: 1%;
+}
+
+input{
+    width: 44%;
+    /* direction:RTL; */
+}
